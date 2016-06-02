@@ -1,6 +1,7 @@
 'use strict';
 var NOTES;
 
+// This is my State:
 var gState = {
     isUserTurn : false,
     seqNoteIndexes: [],
