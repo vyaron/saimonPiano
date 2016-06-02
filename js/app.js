@@ -1,4 +1,15 @@
-// Add Sounds 
+// Tasks:
+// playNote as reusable function
+// -. when note is played play sounds
+// -. sound when loosing
+// -. sound when correct seq
+// Score
+// BONUS:
+// support mute 
+// visual
+// keep max score in localStorage
+// levels
+ 
 
 'use strict';
 var NOTES;
